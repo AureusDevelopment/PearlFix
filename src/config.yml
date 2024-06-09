@@ -1,0 +1,4 @@
+Translations:
+  Console: "<gray>Prevented teleport of player <yellow>{0}</yellow></gray> using <blue>{1}</blue>" # {0} = player's nickname, {1} = teleport cause (ender_pearl/chorus_fruit)
+  Player: "<red>Hey! You can't teleport using <yellow>{0}</yellow> outside the border!</red>" # {0} teleport cause (same like above)
+
